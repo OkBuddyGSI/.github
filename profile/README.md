@@ -4,5 +4,4 @@
 A group dedicated on building GSIs
 
 Links:
-[Telegram](https://t.me/OkBuddyGSI)
-
++ [Telegram](https://t.me/OkBuddyGSI)

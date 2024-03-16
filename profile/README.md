@@ -2,6 +2,5 @@
 # OkBuddyGSI
 
 A group dedicated on building GSIs
-In collaboration with TeamPear
 Links:
 + [Telegram](https://t.me/OkBuddyGSI)
